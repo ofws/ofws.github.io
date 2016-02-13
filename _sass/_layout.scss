@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -24,7 +24,7 @@
     &:visited {
         color: $grey-color-dark;
     }
-    
+
     &:hover {
         color: darken($brand-color, 20%);
         transition-duration: .25s;
@@ -233,6 +233,7 @@
 .rss-subscribe {
     @extend .col-xs-12;
     margin-top: 20px;
+    font-size: $base-font-size * .8;
 }
 
 /**

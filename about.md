@@ -6,7 +6,7 @@ permalink: /about/
 
 ![ofws cv meetup](../images/cvmeetup.jpg)
 
-[ofws](https://www.facebook.com/ofWorkshop/) is a work of [Reed Tothong](http://firmread.me), one half of [openFrameworks Workshop meetup](http://www.meetup.com/openframeworks/), we've offered free artist-run workshops in New York since 2014. We started as a small group of OF enthusiasts work closely to learn openFrameworks together.  
+[ofws](https://www.facebook.com/ofWorkshop/) is a work of [Reed Tothong](http://firmread.me), one half of [openFrameworks Workshop meetup nyc](http://www.meetup.com/openframeworks/). We've been offering free artist-run workshops in New York since 2014. We started as a small group of openFrameworsk enthusiasts work closely to learn and create new expressive tools together.  
 
 
   
