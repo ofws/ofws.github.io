@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![ofws cv meetup](../images/cvmeetup.jpg)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+[ofws](https://www.facebook.com/ofWorkshop/) is a work of [Reed Tothong](firmread.me), one half of [openFrameworks Workshop meetup](http://www.meetup.com/openframeworks/), we've offered free artist-run workshops in New York since 2014. We started as a small group of OF enthusiasts work closely to learn openFrameworks together.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+  
+
+Another half of us has grown into [OF COURSE](http://ofcourse.io/) that is now based in Shanghai. 
+
