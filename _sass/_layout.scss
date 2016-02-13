@@ -18,9 +18,16 @@
     margin-bottom: 0;
     float: left;
 
+
+
     &,
     &:visited {
         color: $grey-color-dark;
+    }
+    
+    &:hover {
+        color: darken($brand-color, 20%);
+        transition-duration: .25s;
     }
 }
 
@@ -35,6 +42,11 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+
+        &:hover {
+            color: darken($brand-color, 20%);
+            transition-duration: .25s;
+        }
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -172,6 +184,7 @@
     @extend .row;
     > img {
         margin:auto;
+        margin-bottom: 10px;
         @extend .col-xs-offset-4, .col-xs-4, .col-sm-offset-5, .col-sm-2;
     }
     > h1 {
